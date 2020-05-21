@@ -23,7 +23,7 @@ pipeline {
             steps {
                 script {
                     // Let's clone the source
-                    git 'https://github.com/gituser1989/testrep.git';
+                    git 'https://github.com/gituser1989/project2rep.git';
                 }
             }
         }
